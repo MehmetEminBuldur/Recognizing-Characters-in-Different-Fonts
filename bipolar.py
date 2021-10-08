@@ -34,6 +34,7 @@ weightk = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 weights = [weighta,weightb,weightc,weightd,weighte,weightj,weightk]#ağırlık matrisi implementasyonu
 #wheights#
 
+
 targeta = [1,-1,-1,-1,-1,-1,-1]
 targetb = [-1,1,-1,-1,-1,-1,-1]
 targetc = [-1,-1,1,-1,-1,-1,-1]
